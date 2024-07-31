@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Laxluther/Folio/static/css/main.d4b6a097.css",
+    "main.js": "/Laxluther/Folio/static/js/main.2e7204f1.js",
+    "static/js/453.1407b060.chunk.js": "/Laxluther/Folio/static/js/453.1407b060.chunk.js",
+    "static/media/background.jpg": "/Laxluther/Folio/static/media/background.c96dba027bee1af4bb1d.jpg",
+    "static/media/fa-solid-900.ttf": "/Laxluther/Folio/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/Laxluther/Folio/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/Laxluther/Folio/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/Laxluther/Folio/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/Laxluther/Folio/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/Laxluther/Folio/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Laxluther/Folio/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Laxluther/Folio/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/Laxluther/Folio/index.html",
+    "main.d4b6a097.css.map": "/Laxluther/Folio/static/css/main.d4b6a097.css.map",
+    "main.2e7204f1.js.map": "/Laxluther/Folio/static/js/main.2e7204f1.js.map",
+    "453.1407b060.chunk.js.map": "/Laxluther/Folio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4b6a097.css",
+    "static/js/main.2e7204f1.js"
+  ]
+}
