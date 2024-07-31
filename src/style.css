@@ -1,0 +1,85 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f5e9be;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    background-image: url('background.jpg'); 
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+header {
+    text-align: center;
+    border-bottom: 2px solid #333;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    background-color: rgba(245, 233, 190,0);  
+}
+
+header h1 {
+    font-size: 3em;
+    font-family: 'Old English Text MT', serif;
+}
+
+header .subheader, .issue {
+    font-size: 1em;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: rgba(245, 233, 190,0);  
+    padding: 20px;
+    border: 1px solid #333;
+}
+
+.main-content {
+    flex: 3;
+    margin-right: 20px;
+}
+
+.article {
+    border-bottom: 1px solid #333;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.article h2 {
+    font-size: 2em;
+    margin: 0;
+}
+
+.article img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px 0;
+}
+
+.sidebar-item {
+    border: 1px solid #333;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: rgba(245, 233, 190,0);  
+}
+
+.sidebar-item h2 {
+    font-size: 1.5em;
+    margin: 0 0 10px 0;
+}
+
+footer {
+    text-align: center;
+    border-top: 2px solid #333;
+    margin-top: 20px;
+    padding-top: 10px;
+    background-color: rgba(245, 233, 190);  
+}
+
+footer p {
+    font-size: 0.9em;
+}
